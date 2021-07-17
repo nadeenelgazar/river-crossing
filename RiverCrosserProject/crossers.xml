@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<level2>
+<crossersOnRightBank>
+80.0
+60.0
+90.0
+40.0
+</crossersOnRightBank>
+<crossersOnLeftBank>
+20.0
+</crossersOnLeftBank>
+<isBoatOnTheLeftBank>
+false
+</isBoatOnTheLeftBank>
+<numberOfSails>
+4
+</numberOfSails>
+</level2>
